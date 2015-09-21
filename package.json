@@ -1,0 +1,30 @@
+{
+  "name": "ferd-onion",
+  "version": "0.0.3",
+  "description": "A Ferd module that shows the latest news from the Onion.",
+  "main": "onion.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gartenfeld/ferd-onion.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "David Rosson"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.62.0",
+    "scrape": "^0.2.3"
+  },
+  "gitHead": "c9014c4f7e25456806b250f53758daca6ff58fcb",
+  "bugs": {
+    "url": "https://github.com/gartenfeld/ferd-onion/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/gartenfeld/ferd-onion#readme",
+  "_id": "ferd-onion@0.0.3",
+  "_shasum": "c7efd3afc0638517512f78482973840c99a2deed",
+  "_from": "ferd-onion@latest"
+}
